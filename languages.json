@@ -34,8 +34,8 @@
       }
     }
   },
-  "germany": {
-    "Deutsch": {
+  "Deutsch": {
+    "germany": {
       "Titel": "Deutsch(German)",
       "Land": "Germany",
       "Website": {
