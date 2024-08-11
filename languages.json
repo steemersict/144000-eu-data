@@ -88,49 +88,5 @@
       "icon": "",
       "country": ["en"]
     }
-  },
-  {
-    "language": "Español(Spanish)",
-    "langCode": "ES",
-    "website": {
-      "title": "Website Español",
-      "url": "https://zda-ref.nl/",
-      "country": ["es"]
-    },
-    "bible": {
-      "title": null,
-      "url": "https://bible.com",
-      "country": ["es"]
-    },
-    "sbl": {
-      "title": "Lecciones de la Biblia del Sábado",
-      "url": "https://sbl.sdarm.org",
-      "country": ["es"]
-    },
-    "rn": {
-      "title": "Noticias de la Reforma",
-      "url": "#",
-      "country": ["es"]
-    },
-    "facebook": {
-      "title": null,
-      "url": "#",
-      "country": ["es"]
-    },
-    "youtube": {
-      "title": null,
-      "url": "#",
-      "country": ["es"]
-    },
-    "instagram": {
-      "title": null,
-      "url": "#"
-    },
-    "custom_url": {
-      "title": "Custom",
-      "url": "#",
-      "icon": "",
-      "country": ["es"]
-    }
   }
 ]
