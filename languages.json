@@ -43,5 +43,94 @@
       "icon": "",
       "country": ["nl", "sur"]
     }
+  },
+  {
+    "language": "English",
+    "langCode": "EN",
+    "website": {
+      "title": "Website English",
+      "url": "https://zda-ref.nl/",
+      "country": ["en"]
+    },
+    "bible": {
+      "title": null,
+      "url": "https://bible.com",
+      "country": ["en"]
+    },
+    "sbl": {
+      "title": "Sabbath Bible Lessons",
+      "url": "https://sbl.sdarm.org",
+      "country": ["en"]
+    },
+    "rn": {
+      "title": "Reformation news",
+      "url": "#",
+      "country": ["en"]
+    },
+    "facebook": {
+      "title": null,
+      "url": "#",
+      "country": ["en"]
+    },
+    "youtube": {
+      "title": null,
+      "url": "#",
+      "country": ["en"]
+    },
+    "instagram": {
+      "title": null,
+      "url": "#",
+      "country": ["en"]
+    },
+    "custom_url": {
+      "title": "Custom",
+      "url": "#",
+      "icon": "",
+      "country": ["en"]
+    }
+  },
+  {
+    "language": "Español(Spanish)",
+    "langCode": "ES",
+    "website": {
+      "title": "Website Español",
+      "url": "https://zda-ref.nl/",
+      "country": ["es"]
+    },
+    "bible": {
+      "title": null,
+      "url": "https://bible.com",
+      "country": ["es"]
+    },
+    "sbl": {
+      "title": "Lecciones de la Biblia del Sábado",
+      "url": "https://sbl.sdarm.org",
+      "country": ["es"]
+    },
+    "rn": {
+      "title": "Noticias de la Reforma",
+      "url": "#",
+      "country": ["es"]
+    },
+    "facebook": {
+      "title": null,
+      "url": "#",
+      "country": ["es"]
+    },
+    "youtube": {
+      "title": null,
+      "url": "#",
+      "country": ["es"]
+    },
+    "instagram": {
+      "title": null,
+      "url": "#"
+    },
+    "custom_url": {
+      "title": "Custom",
+      "url": "#",
+      "icon": "",
+      "country": ["es"]
+    }
   }
 ]
