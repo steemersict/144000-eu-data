@@ -1,82 +1,47 @@
 [
   {
-    "netherlands": {
-      "Language": "Nederlands(Dutch)",
-      "Nederland": {
-        "Land": "Nederland",
-        "Code": "NL",
-        "Website": {
-          "Titel": "Website Nederland",
-          "URL": "https://zda-ref.nl/"
-        },
-        "Bible": {
-          "URL": "https://bible.com"
-        },
-        "SBL": {
-          "Title": "Sabbat Bijbel Lessen",
-          "URL": "https://sbl.sdarm.org"
-        },
-        "RN": {
-          "Title": "Reformatie nieuws",
-          "URL": "#"
-        },
-        "Facebook": {
-          "URL": "#"
-        },
-        "Youtube": {
-          "URL": "#"
-        },
-        "Instagram": {
-          "URL": "#"
-        },
-        "Custom URL": {
-          "Titel": "Custom",
-          "URL": "#",
-          "Icon": ""
-        }
-      }
+    "language": "Nederlands(Dutch)",
+    "langCode": "NL",
+    "website": {
+      "title": "Website Nederland",
+      "url": "https://zda-ref.nl/",
+      "country": ["nl", "sur"]
     },
-    "Deutsch": {
-      "germany": {
-        "Titel": "Deutsch(German)",
-        "Land": "Germany",
-        "Website": {
-          "Titel": "Website Deutschland",
-          "URL": "https://sta-ref.de/"
-        },
-        "Bible": {
-          "URL": "https://bible.com"
-        },
-        "SBL": {
-          "Title": "Sabbat Bijbel Lessen",
-          "URL": "https://sbl.sdarm.org"
-        },
-        "RN": {
-          "Title": "Reformatie nieuws",
-          "URL": "#"
-        },
-        "Facebook": [
-          {
-            "Title": "Facebook Nort",
-            "URL": "#"
-          },
-          {
-            "Title": "Facebook Sud",
-            "URL": "#"
-          }
-        ],
-        "Youtube": {
-          "URL": "#"
-        },
-        "Instagram": {
-          "URL": "#"
-        },
-        "Custom URL": {
-          "Titel": "Custom",
-          "URL": "#",
-          "Icon": ""
-        }
-      }
+    "bible": {
+      "title": null,
+      "url": "https://bible.com",
+      "country": ["nl", "sur"]
+    },
+    "sbl": {
+      "title": "Sabbat Bijbel Lessen",
+      "url": "https://sbl.sdarm.org",
+      "country": ["nl", "sur"]
+    },
+    "rn": {
+      "title": "Reformatie nieuws",
+      "url": "#",
+      "country": ["nl", "sur"]
+    },
+    "facebook": {
+      "title": null,
+      "url": "#",
+      "country": ["nl", "sur"]
+    },
+    "youtube": {
+      "title": null,
+      "url": "#",
+      "country": ["nl", "sur"]
+    },
+    "instagram": {
+      "title": null,
+      "url": "#",
+      "country": ["nl", "sur"]
+    },
+    "custom_url": {
+      "title": "Custom",
+      "url": "#",
+      "icon": "",
+      "country": ["nl", "sur"]
     }
   }
 ]
