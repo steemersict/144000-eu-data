@@ -1,79 +1,81 @@
-{
-  "netherlands": {
-    "Language": "Nederlands(Dutch)",
-    "Nederland": {
-      "Land": "Nederland",
-      "Website": {
-        "Titel": "Website Nederland",
-        "URL": "https://zda-ref.nl/"
-      },
-      "Bible": {
-        "URL": "https://bible.com"
-      },
-      "SBL": {
-        "Title": "Sabbat Bijbel Lessen",
-        "URL": "https://sbl.sdarm.org"
-      },
-      "RN": {
-        "Title": "Reformatie nieuws",
-        "URL": "#"
-      },
-      "Facebook": {
-        "URL": "#"
-      },
-      "Youtube": {
-        "URL": "#"
-      },
-      "Instagram": {
-        "URL": "#"
-      },
-      "Custom URL": {
-        "Titel": "Custom",
-        "URL": "#",
-        "Icon": ""
-      }
-    }
-  },
-  "Deutsch": {
-    "germany": {
-      "Titel": "Deutsch(German)",
-      "Land": "Germany",
-      "Website": {
-        "Titel": "Website Deutschland",
-        "URL": "https://sta-ref.de/"
-      },
-      "Bible": {
-        "URL": "https://bible.com"
-      },
-      "SBL": {
-        "Title": "Sabbat Bijbel Lessen",
-        "URL": "https://sbl.sdarm.org"
-      },
-      "RN": {
-        "Title": "Reformatie nieuws",
-        "URL": "#"
-      },
-      "Facebook": [
-        {
-          "Title": "Facebook Nort",
+[
+  {
+    "netherlands": {
+      "Language": "Nederlands(Dutch)",
+      "Nederland": {
+        "Land": "Nederland",
+        "Website": {
+          "Titel": "Website Nederland",
+          "URL": "https://zda-ref.nl/"
+        },
+        "Bible": {
+          "URL": "https://bible.com"
+        },
+        "SBL": {
+          "Title": "Sabbat Bijbel Lessen",
+          "URL": "https://sbl.sdarm.org"
+        },
+        "RN": {
+          "Title": "Reformatie nieuws",
           "URL": "#"
         },
-        {
-          "Title": "Facebook Sud",
+        "Facebook": {
           "URL": "#"
+        },
+        "Youtube": {
+          "URL": "#"
+        },
+        "Instagram": {
+          "URL": "#"
+        },
+        "Custom URL": {
+          "Titel": "Custom",
+          "URL": "#",
+          "Icon": ""
         }
-      ],
-      "Youtube": {
-        "URL": "#"
-      },
-      "Instagram": {
-        "URL": "#"
-      },
-      "Custom URL": {
-        "Titel": "Custom",
-        "URL": "#",
-        "Icon": ""
+      }
+    },
+    "Deutsch": {
+      "germany": {
+        "Titel": "Deutsch(German)",
+        "Land": "Germany",
+        "Website": {
+          "Titel": "Website Deutschland",
+          "URL": "https://sta-ref.de/"
+        },
+        "Bible": {
+          "URL": "https://bible.com"
+        },
+        "SBL": {
+          "Title": "Sabbat Bijbel Lessen",
+          "URL": "https://sbl.sdarm.org"
+        },
+        "RN": {
+          "Title": "Reformatie nieuws",
+          "URL": "#"
+        },
+        "Facebook": [
+          {
+            "Title": "Facebook Nort",
+            "URL": "#"
+          },
+          {
+            "Title": "Facebook Sud",
+            "URL": "#"
+          }
+        ],
+        "Youtube": {
+          "URL": "#"
+        },
+        "Instagram": {
+          "URL": "#"
+        },
+        "Custom URL": {
+          "Titel": "Custom",
+          "URL": "#",
+          "Icon": ""
+        }
       }
     }
   }
-}
+]
